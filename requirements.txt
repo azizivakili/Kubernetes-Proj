@@ -1,0 +1,7 @@
+fastapi
+sqlalchemy
+pydantic
+mysqlclient==2.1.1
+uvicorn
+os
+

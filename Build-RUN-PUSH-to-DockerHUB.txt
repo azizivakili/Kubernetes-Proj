@@ -1,0 +1,7 @@
+# Steps to build Docker image and then push inot Docker Hub: 
+
+docker build -t azizivakili/datascientestapi:1.0 .
+
+docker run azizivakili/datascientestapi:1.0
+
+docker push azizivakili/datascientestapi:1.0
